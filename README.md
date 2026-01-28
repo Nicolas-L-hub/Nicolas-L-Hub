@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently a 3rd year chemistry student new to GitHub! I'm using this platform for my quantum mechanics class and am excited to become more familiar with the platform.
 <!--
 **Nicolas-L-hub/Nicolas-L-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
